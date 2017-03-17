@@ -116,3 +116,4 @@ static void CreateBundles()
 GitHub完整源码链接：https://github.com/GeeScan/AssetBundle_Unity5
 
 我的公众号：优三帝
+原帖：http://www.u3dc.com/archives/2176
